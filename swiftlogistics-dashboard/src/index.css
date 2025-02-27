@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-gradient-to-r from-purple-500 via-pink-500 to-blue-500 min-h-screen flex items-center justify-center text-white;
+}
